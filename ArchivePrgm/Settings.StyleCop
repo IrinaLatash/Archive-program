@@ -2,7 +2,7 @@
   <Parsers>
     <Parser ParserId="StyleCop.CSharp.CsParser">
       <ParserSettings>
-        <BooleanProperty Name="AnalyzeGeneratedFiles">True</BooleanProperty>
+        <BooleanProperty Name="AnalyzeDesignerFiles">False</BooleanProperty>
       </ParserSettings>
     </Parser>
   </Parsers>
